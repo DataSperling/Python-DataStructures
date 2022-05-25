@@ -1,0 +1,6 @@
+setup.py
+src/SinglyLinkedList.egg-info/PKG-INFO
+src/SinglyLinkedList.egg-info/SOURCES.txt
+src/SinglyLinkedList.egg-info/dependency_links.txt
+src/SinglyLinkedList.egg-info/requires.txt
+src/SinglyLinkedList.egg-info/top_level.txt
